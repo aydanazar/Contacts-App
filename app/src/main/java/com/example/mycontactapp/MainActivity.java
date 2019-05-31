@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-        showMessage("Data", buffer.toString());
+        showMessage("Error", "No contact found");
     }
 
 }
